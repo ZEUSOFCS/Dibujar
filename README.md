@@ -12,8 +12,6 @@ Augmented Reality Drawing App.
 
 Aplicación de dibujo de realidad aumentada.
 
-¡Suji es la base de datos de Front-End asociada con Google Firebase que permite a los desarrolladores y clientes almacenar y sincronizar datos con la base de datos en la nube de NoSQL!
-
 
 ## Credits
  Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me) 
